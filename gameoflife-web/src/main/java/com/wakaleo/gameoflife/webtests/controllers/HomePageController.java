@@ -6,7 +6,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * This class rocks.
- *
+ * check this we as well
  * @author johnsmart
  */
 @Controller
