@@ -70,6 +70,7 @@ public class GameController {
         return universe;
     }
 
+    /* test comment */
     private Universe universeInstanciatedFromClickedCells(final int rows,
                                                           final int columns,
                                                           final HttpServletRequest request) {
